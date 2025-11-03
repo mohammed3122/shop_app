@@ -36,15 +36,6 @@
 
 ---
 
-## 🧩 الاعتماديات (Dependencies)
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  http: ^1.2.0
-  cupertino_icons: ^1.0.6
-
 
 ## 🧱 هيكل المشروع
 
