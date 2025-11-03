@@ -25,7 +25,7 @@
 
 ## 🧱 هيكل المشروع
 
-
+![structure](https://github.com/mohammed3122/shop_app/blob/main/screenshots/structure.png)
 
 
 
@@ -39,6 +39,7 @@
 
 
 ## 🧱 تطبيق المشروع
+![views](https://github.com/mohammed3122/shop_app/blob/main/screenshots/media.png)
 
 
 
