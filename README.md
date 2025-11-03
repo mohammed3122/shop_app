@@ -1,16 +1,44 @@
-# shop_app
+# 🛍️ Shop App
 
-A new Flutter project.
+> تطبيق تجارة إلكترونية بسيط باستخدام **Flutter** و **Fake Store API**
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📖 نظرة عامة
 
-A few resources to get you started if this is your first Flutter project:
+تطبيق **Shop App** هو تطبيق تجارة إلكترونية تدريبي يتيح للمستخدم استعراض جميع المنتجات،  
+والبحث حسب الفئات (Categories)، وعرض تفاصيل المنتجات في واجهة بسيطة وسهلة الاستخدام.  
+تم بناء التطبيق باستخدام **Flutter** والتعامل مع البيانات عبر **Fake Store API**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ المميزات
+
+- 🔹 عرض جميع المنتجات من خلال واجهة API  
+- 🔹 البحث عن المنتجات حسب الفئة  
+- 🔹 عرض الفئات في Tabs تفاعلية  
+- 🔹 تصميم واجهة جذابة وسهلة الاستخدام  
+- 🔹 استخدام FutureBuilder لعرض البيانات بشكل ديناميكي  
+- 🔹 هيكل مشروع نظيف ومنظم  
+
+---
+
+## 🧱 هيكل المشروع
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🧱 تطبيق المشروع
+
+
+
