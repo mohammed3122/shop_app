@@ -12,7 +12,7 @@ class Api {
     );
   }
 
-  Future<dynamic> add({
+  Future<Map<String, dynamic>> add({
     required String url,
     required String productName,
     required dynamic productPrice,
@@ -36,7 +36,7 @@ class Api {
     );
   }
 
-  Future<dynamic> update({
+  Future<Map<String, dynamic>> update({
     required String url,
     required dynamic productName,
     required dynamic productPrice,

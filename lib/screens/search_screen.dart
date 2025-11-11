@@ -45,7 +45,7 @@ class _SearchScreenState extends State<SearchScreen> {
               future: GetAllCategories().getAllCategories(),
               builder: (context, snapshot) {
                 if (snapshot.hasData) {
-                  List categories = snapshot.data;
+                  List categories = snapshot.data!;
                   return SizedBox(
                     height: 60,
                     child: ListView.separated(

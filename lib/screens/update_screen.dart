@@ -22,7 +22,7 @@ class UpdateScreen extends StatelessWidget {
     ProductModel product =
         ModalRoute.of(context)!.settings.arguments as ProductModel;
     return Scaffold(
-      appBar: AppBar(title: Text('All Products'), centerTitle: true),
+      appBar: AppBar(title: Text('Update Products'), centerTitle: true),
       body: Center(
         child: SingleChildScrollView(
           child: Form(
